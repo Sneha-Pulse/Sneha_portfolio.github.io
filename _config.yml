@@ -1,0 +1,47 @@
+# Portfolio Configuration
+title: Sneha P
+description: "AI & ML Enthusiast | Full Stack Developer | Passionate about Innovation and Technology"
+show_downloads: true
+theme: jekyll-theme-minimal
+
+# Social Links (optional)
+social_links:
+  github: https://github.com/your-username
+  linkedin: https://www.linkedin.com/in/your-linkedin-profile
+  twitter: https://twitter.com/your-twitter-handle
+
+# Navigation Links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Blog"
+    url: "/blog"
+  - title: "Contact"
+    url: "/contact"
+
+# Sections on Home Page
+sections:
+  - title: "Welcome"
+    content: |
+      Welcome to my portfolio! I am passionate about AI, Machine Learning, and Full Stack Development. Explore my projects and blog to learn more about my work and interests.
+  - title: "Skills"
+    content: |
+      - **Programming Languages:** Python, JavaScript, C++
+      - **Frameworks:** TensorFlow, PyTorch, React.js, Node.js
+      - **Tools:** Git, Docker, Kubernetes, AWS
+  - title: "Featured Projects"
+    content: |
+      - **AI-Powered Autofill System:** A project using GPT-4 and SQL databases for intelligent suggestions.
+      - **Forest Fire Detection:** Developed a model for detecting forest fires using satellite imagery and self-supervised learning.
+
+# Footer
+footer_text: "© 2024 Sneha P. All rights reserved."
+
+# Additional Settings
+show_profile_image: true
+profile_image: "/assets/images/profile.jpg"
+favicon: "/assets/images/favicon.ico"
